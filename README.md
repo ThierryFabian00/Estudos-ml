@@ -1,1 +1,1 @@
-Meus extudos de Machine Learning
+My studies in Machine Learning
